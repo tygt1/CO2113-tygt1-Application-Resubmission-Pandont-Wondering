@@ -329,7 +329,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11, y: -287}
+  m_AnchoredPosition: {x: 11, y: -390}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &196169121
@@ -1351,7 +1351,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 400}
+  m_AnchoredPosition: {x: 0, y: 452}
   m_SizeDelta: {x: 500, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &639325692
@@ -3465,7 +3465,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 50}
+  m_AnchoredPosition: {x: 0, y: 120}
   m_SizeDelta: {x: 1500, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1476969663
@@ -3488,19 +3488,20 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The models for Pandont (Panda Character) and Rat Crawler (Rat Character)
-    are modeled by me and you can find the raw .blend files in the RawAssets Folder
-    I created within the project in the main Assets Folder.
-
-
-    The Animations
-    and Skeletal Rig for my characters are imported from Adobe Mixamo and are royalty
-    free for personal, commercial, and non-profit uses as per Adobe''s FAQ:  https://helpx.adobe.com/uk/creative-cloud/faq/mixamo-faq.html
-
-
-    Keyboard
-    and Gamepad button prompts pack by XELU completely free through public domain
-    license under Creative Commons 0: https://thoseawesomeguys.com/prompts'
+  m_text: "Thank you for playing Pandont Wondering a 3D Fighting game by Geo Tsang(tygt1)
+    made in the Unity engine.\n \nAll the C# Scripts used in the game are coded by
+    tygt. The models for Pandont (Panda Character) and Rat Crawler (Rat Character)
+    are modeled by tygt1 and you can find the raw .blend files in the RawAssets Folder
+    he created within the project in the main Assets Folder of the Project.\n\nThe
+    following Third Party Assets are used:\nThe Animations and Skeletal Rig for my
+    characters are imported from Adobe Mixamo and are royalty free for personal,
+    commercial, and non-profit uses as per Adobe's FAQ:  https://helpx.adobe.com/uk/creative-cloud/faq/mixamo-faq.html\n\nKeyboard
+    and Gamepad button prompts pack by XELU completely free to use as per public
+    domain license under Creative Commons 0: https://thoseawesomeguys.com/prompts\n\nGeneric
+    Low Poly Pack by Mella Via completely free from Unity Asset Store to use as per
+    Standard Unity Asset Store EULA.\n\nPolyArt - Ancient Village Pack by Render
+    Island completely free from Unity Asset Store to use as per Standard Unity Asset
+    Store EULA.\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3527,8 +3528,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 32
+  m_fontSizeBase: 32
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

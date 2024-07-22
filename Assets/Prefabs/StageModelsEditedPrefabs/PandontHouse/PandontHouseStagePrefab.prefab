@@ -105,6 +105,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 4833122026432007290}
     m_Modifications:
+    - target: {fileID: 6075067841724804709, guid: 8e6b92b35353de740b62887b29958b01, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9e154eef9e68f7f42a3e4b0cff61d74a, type: 2}
     - target: {fileID: 6512984248127073537, guid: 8e6b92b35353de740b62887b29958b01, type: 3}
       propertyPath: m_Name
       value: PandontHouse
