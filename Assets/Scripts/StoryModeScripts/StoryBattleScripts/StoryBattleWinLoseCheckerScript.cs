@@ -58,7 +58,7 @@ public class StoryBattleWinLoseChecker : MonoBehaviour
                     break;
 
                 case "StoryModeBattleTwo":
-                    sceneName = "BeatStoryMode";
+                    sceneName = "StoryModeCreditsPage";
                     break;
 
                 default:
